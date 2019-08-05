@@ -1,0 +1,11 @@
+Ansible
+
+https://showme.codes/2017-06-12/ansible-introduce/
+https://www.w3cschool.cn/automate_with_ansible/automate_with_ansible-db6727oq.html
+
+从系统规划、部署 (Deployment)、开发 (Development)、测试 (QA)、维运 (Operations)、监控 (Monitoring) 到
+效能优化 (Performance Optimisation) 等样样都要融汇贯通。
+
+在现代，有个叫「DevOps」的名词概括了不少技能和工具，如 Ansible, Chef, Docker container, Git, Jenkins CI, 
+Vagrant, Zabbix monitoring server … 等
+
